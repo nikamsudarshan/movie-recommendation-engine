@@ -20,7 +20,7 @@ The engine is built on two distinct algorithms:
    - **Method:** Applies an adjustable weight (e.g., 50% Content / 50% Collaborative) to generate a unified `hybrid_score`, allowing the system to be tuned dynamically.
 
 ## 📊 Dataset
-This project uses the official [MovieLens (Small) Dataset](https://grouplens.org/datasets/movielens/), containing:
+This project uses the official [MovieLens (Small) Dataset](https://grouplens.org/datasets/movielens/) containing:
 - 100,000+ ratings
 - 9,000+ movies
 - 600+ unique users
@@ -35,7 +35,7 @@ This project uses the official [MovieLens (Small) Dataset](https://grouplens.org
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/nikamsudarshan/movie-recommendation-engine.git](https://github.com/nikamsudarshan/movie-recommendation-engine.git)
+git clone https://github.com/nikamsudarshan/movie-recommendation-engine.git
 cd movie-recommendation-engine
 ```
 
